@@ -8,3 +8,10 @@ on:
   pull_request:
     branches:
       - main
+
+jobs:
+  verify_files:
+    name: Verify Files
+    steps:
+      - name: Lint Files
+        run: node Makefile lint
