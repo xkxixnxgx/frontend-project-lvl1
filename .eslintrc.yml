@@ -1,0 +1,11 @@
+---
+  env:
+    browser: true
+    node: true
+
+  extends:
+      - 'airbnb-base'
+
+  rules:
+    no-console: "off"
+    import/extensions: "off"
