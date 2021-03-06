@@ -11,7 +11,6 @@ on:
 
 jobs:
   verify_files:
-    name: Verify Files
+    runs-on: ubuntu-latest
     steps:
-      - name: Lint Files
         run: node Makefile lint
