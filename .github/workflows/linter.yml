@@ -16,4 +16,6 @@ jobs:
       steps:
         # Run ESLint
         - name: Run_ESLint
-        - run: make lint
+          run: make lint
+          shell: bash
+
