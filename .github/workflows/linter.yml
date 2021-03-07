@@ -14,10 +14,15 @@ jobs:
       name: run_eslint
       runs-on: ubuntu-18.04
       steps:
-        # Install requirements
-        - name: Install_requirements
+        # Pull repositories
+        - uses: actions/checkout@v2
+        # Setup node
+        - uses: actions/setup-node@v1
+          name: Setup_node
           with:
             node-version: 14
+        # Install requirements
+        - name: Install_requirements
           run: npm install
         # Run ESLint
         - name: Run_ESLint
