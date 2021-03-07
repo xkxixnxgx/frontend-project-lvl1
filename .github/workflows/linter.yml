@@ -23,7 +23,7 @@ jobs:
             node-version: 14
         # Install requirements
         - name: Install_requirements
-          run: npm install
+          run: make install
         # Run ESLint
         - name: Run_ESLint
           run: npx eslint --ext .js,.jsx,.ts,.tsx
