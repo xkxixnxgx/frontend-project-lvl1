@@ -16,6 +16,5 @@ jobs:
       steps:
         # Run ESLint
         - name: Run_ESLint
-          run: make lint
+          run: npx eslint .
           shell: bash
-
