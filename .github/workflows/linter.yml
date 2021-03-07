@@ -12,8 +12,15 @@ on:
 jobs:
     eslint:
       name: run_eslint
-      runs-on: ubuntu-latest
+      runs-on: ubuntu-18.04
       steps:
+        # Install requirements
+        - uses: actions/checkout@v2
+        - uses: actions/setup-node@v2
+          with:
+            node-version: 14
+          run: make install
+          shell: bash
         # Run ESLint
         - name: Run_ESLint
           run: npx eslint --ext .js,.jsx,.ts,.tsx
