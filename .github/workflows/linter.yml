@@ -15,8 +15,7 @@ jobs:
       runs-on: ubuntu-18.04
       steps:
         # Install requirements
-        - uses: actions/checkout@v2
-        - uses: actions/setup-node@v2
+        - name: Install_requirements
           with:
             node-version: 14
           run: make install
