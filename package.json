@@ -19,7 +19,7 @@
   "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "test_for_mo": "bin/test_for_mo.js"
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "eslint": "^7.21.0",
