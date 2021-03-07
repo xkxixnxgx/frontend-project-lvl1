@@ -26,5 +26,5 @@ jobs:
           run: make install
         # Run ESLint
         - name: Run_ESLint
-          run: npx eslint --ext .js,.jsx,.ts,.tsx
-          shell: bash
+          run: make lint
+
