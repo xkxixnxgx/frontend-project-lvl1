@@ -11,9 +11,9 @@ on:
 
 jobs:
     eslint:
-    name: Run ESLint
+    name: run_eslint
     runs-on: ubuntu-latest
     steps:
       # Run ESLint
-      - name: Run ESLint
+      - name: Run_ESLint
       - run: make lint
