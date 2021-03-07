@@ -10,7 +10,10 @@ on:
       - main
 
 jobs:
-  verify_files:
+    eslint:
+    name: Run ESLint
     runs-on: ubuntu-latest
     steps:
-        run: node Makefile lint
+      # Run ESLint
+      - name: Run ESLint
+      - run: make lint
