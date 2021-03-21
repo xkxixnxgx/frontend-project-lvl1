@@ -23,6 +23,7 @@
     "brain-calc": "games/brain_calc",
     "brain-gcd": "games/brain_gcd",
     "brain-progression": "games/brain_progression",
+    "brain-prime": "games/brain_prime",
     "brain-index": "src/index.js"
   },
   "dependencies": {
