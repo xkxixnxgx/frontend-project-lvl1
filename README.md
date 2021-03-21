@@ -42,3 +42,14 @@ make brain-calc
 [![asciicast](https://asciinema.org/a/c5ikey4cblDTh3nhCvSWA9f8N.svg)](https://asciinema.org/a/c5ikey4cblDTh3nhCvSWA9f8N)
 #### Lose game:
 [![asciicast](https://asciinema.org/a/wdsfF6YRX7oe5ZJOoyTE9fRB7.svg)](https://asciinema.org/a/wdsfF6YRX7oe5ZJOoyTE9fRB7)
+
+
+##Brain-gcd game.
+#### Start 
+```
+make brain-gcd
+```
+#### Win game:
+[![asciicast](https://asciinema.org/a/m2GfPETDhkMgI3L7DulOTeMXf.svg)](https://asciinema.org/a/m2GfPETDhkMgI3L7DulOTeMXf)
+#### Lose game:
+[![asciicast](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4.svg)](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4)
