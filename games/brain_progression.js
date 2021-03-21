@@ -10,11 +10,11 @@ const generateArr = () => {
   const counterMax = getRandomInt(4, 9);
   const startNumber = getRandomInt(1, 100);
   const arr = [startNumber];
-  const increase = getRandomInt(1, 10)
+  const increase = getRandomInt(1, 10);
   for (let counter = 0; counter < counterMax; counter += 1) {
-      const lastNumber = arr[arr.length-1]
-      arr.push(lastNumber + increase)
-  };
+    const lastNumber = arr[arr.length - 1];
+    arr.push(lastNumber + increase);
+  }
   return arr;
 };
 
