@@ -18,8 +18,10 @@
   "homepage": "https://github.com/yury-bor/frontend-project-lvl1#readme",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-games": "games/brain_games.js",
+    "brain-even": "games/brain_even.js",
+    "brain-calc": "games/brain_calc",
+    "brain-index": "src/index.js"
   },
   "dependencies": {
     "eslint": "^7.21.0",
