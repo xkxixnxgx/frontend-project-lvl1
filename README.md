@@ -64,3 +64,14 @@ make brain-progression
 [![asciicast](https://asciinema.org/a/TdH9sEtxzx3OiMpp2IhlYnUtu.svg)](https://asciinema.org/a/TdH9sEtxzx3OiMpp2IhlYnUtu)
 #### Lose game:
 [![asciicast](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu.svg)](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu)
+
+
+##Brain-prime game.
+#### Start 
+```
+make brain-prime
+```
+#### Win game:
+[![asciicast](https://asciinema.org/a/twSFvZ1IxLPgkEVL7iZ8wqJYh.svg)](https://asciinema.org/a/twSFvZ1IxLPgkEVL7iZ8wqJYh)
+#### Lose game:
+[![asciicast](https://asciinema.org/a/hOmg8qVmzCR8u1whzfoHpdl1O.svg)](https://asciinema.org/a/hOmg8qVmzCR8u1whzfoHpdl1O)
