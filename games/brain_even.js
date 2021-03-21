@@ -4,7 +4,6 @@ import { startGame } from '../src/index.js';
 
 const mainTask = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-// brain_even.js
 const randomNumber = () => {
   const min = 0;
   const max = 100;

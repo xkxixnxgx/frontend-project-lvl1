@@ -14,7 +14,6 @@ const correctNumber = (num1, num2, operator) => {
   return (operator === '+') ? num1 + num2 : num1 - num2;
 };
 
-// brain_even.js
 const mathOperations = () => {
   const symbols = ['+', '-', '*'];
   const num1 = getRandomInt(0, 10);
