@@ -53,3 +53,14 @@ make brain-gcd
 [![asciicast](https://asciinema.org/a/m2GfPETDhkMgI3L7DulOTeMXf.svg)](https://asciinema.org/a/m2GfPETDhkMgI3L7DulOTeMXf)
 #### Lose game:
 [![asciicast](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4.svg)](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4)
+
+
+##Brain-progression game.
+#### Start 
+```
+make brain-progression
+```
+#### Win game:
+[![asciicast](https://asciinema.org/a/TdH9sEtxzx3OiMpp2IhlYnUtu.svg)](https://asciinema.org/a/TdH9sEtxzx3OiMpp2IhlYnUtu)
+#### Lose game:
+[![asciicast](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu.svg)](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu)

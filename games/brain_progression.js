@@ -18,7 +18,6 @@ const generateArr = () => {
   return arr;
 };
 
-
 const replaceNumber = () => {
   const arr = generateArr();
   const randomPosition = getRandomInt(0, arr.length - 2);
