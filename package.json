@@ -22,6 +22,7 @@
     "brain-even": "games/brain_even.js",
     "brain-calc": "games/brain_calc",
     "brain-gcd": "games/brain_gcd",
+    "brain-progression": "games/brain_progression",
     "brain-index": "src/index.js"
   },
   "dependencies": {

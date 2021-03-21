@@ -13,6 +13,9 @@ brain-calc:
 brain-gcd:
 	node games/brain_gcd.js
 
+brain-progression:
+	node games/brain_progression.js
+
 publish:
 	npm publish --dry-run
 
