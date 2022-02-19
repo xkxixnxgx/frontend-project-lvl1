@@ -7,7 +7,9 @@
 ## List games
 #### 1. brain-even
 #### 2. brain-calc
-
+#### 3. brain-gcd
+#### 4. brain-progression
+#### 5. brain-prime
 
 ## Install all games.
 #### Use commands in anywhere your directory:
@@ -22,7 +24,7 @@ make install
 [![asciicast](https://asciinema.org/a/Z830AruxaBaPqoS2M5l3DVrcr.svg)](https://asciinema.org/a/Z830AruxaBaPqoS2M5l3DVrcr)
 
 
-##Brain-even game.
+## Brain-even game.
 #### Start 
 ```
 make brain-even
@@ -33,7 +35,7 @@ make brain-even
 [![asciicast](https://asciinema.org/a/wGwiDUa0dYym5UFOPl7u4RAkU.svg)](https://asciinema.org/a/wGwiDUa0dYym5UFOPl7u4RAkU)
 
 
-##Brain-calc game.
+## Brain-calc game.
 #### Start 
 ```
 make brain-calc
@@ -44,7 +46,7 @@ make brain-calc
 [![asciicast](https://asciinema.org/a/wdsfF6YRX7oe5ZJOoyTE9fRB7.svg)](https://asciinema.org/a/wdsfF6YRX7oe5ZJOoyTE9fRB7)
 
 
-##Brain-gcd game.
+## Brain-gcd game.
 #### Start 
 ```
 make brain-gcd
@@ -55,7 +57,7 @@ make brain-gcd
 [![asciicast](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4.svg)](https://asciinema.org/a/EV33gNKZVstE8OEe6PtoGvsJ4)
 
 
-##Brain-progression game.
+## Brain-progression game.
 #### Start 
 ```
 make brain-progression
@@ -66,7 +68,7 @@ make brain-progression
 [![asciicast](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu.svg)](https://asciinema.org/a/Z1t6YfaLQvOq1QpXzEmGKuxeu)
 
 
-##Brain-prime game.
+## Brain-prime game.
 #### Start 
 ```
 make brain-prime
